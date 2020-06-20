@@ -1,7 +1,7 @@
 ### attendance_system<br>
 #Clock-in app comes with 3 screens (services, home, profile): futures are:
 1-log-in and sign-up system.
-#home screen:
+### home screen:
 1- (online sign-in) ability to signing from phone using (pin code, fingerprint, face recognition)
 2-tasks assigned to the employee will be viewed with the information (date, time).
 #services screen:
