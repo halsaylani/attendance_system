@@ -16,6 +16,6 @@
 2- managing the holidays and days off requests.
 3- choose the location for the employee. application still under development.
 
-<img src="/clockint1.gif.png" align="left"
+<img src="/clockint1.gif" align="left"
 width="150"
 hspace="10" vspace="10">
